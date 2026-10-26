@@ -1,0 +1,19 @@
+[theme]
+baseRadius = "0.5rem"
+showWidgetBorder = true
+
+[theme.light]
+primaryColor = "#9a3412"
+backgroundColor = "#fff8f1"
+secondaryBackgroundColor = "#f4e6d4"
+textColor = "#2b2118"
+borderColor = "#e4d3c0"
+linkColor = "#9a3412"
+
+[theme.dark]
+primaryColor = "#c2410c"
+backgroundColor = "#1a1410"
+secondaryBackgroundColor = "#2a211b"
+textColor = "#f6efe6"
+borderColor = "#3d3228"
+linkColor = "#fdba74"
